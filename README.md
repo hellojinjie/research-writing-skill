@@ -143,7 +143,7 @@ powershell -ExecutionPolicy Bypass -File scripts/research_quality_gate.ps1 -Proj
 
 如果你在使用过程中想交流论文结构、文献整理、图表提示词、去AI化写作或模板适配，欢迎加入科研写作讨论群，大家一起讨论和交流。
 
-QQ群：649198361
+QQ群：827924233
 
 <p align="center">
   <img src="img/qq-research-writing-group.jpg" alt="科研写作讨论群 QQ 群" width="260">
